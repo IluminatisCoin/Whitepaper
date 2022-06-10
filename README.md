@@ -1,5 +1,5 @@
 # Whitepaper
-![alt tag](https://i.ibb.co/SVS995v/IC.png)
+![alt tag](https://i.ibb.co/h20ttL8/IC.png)
 ## Protocolo IluminatisCoin
 **Cryptoasset for decentralized cooperative finance**
 
@@ -60,7 +60,7 @@ The codes related to the web platform and other solutions of the Adaxa Token eco
 
 It will focus on making decisions regarding the traceable course of the Adaxa Token and other laws that condition the Token, taking into account the initial specifications set out in this technical document.
 
-![alt tag](https://i.ibb.co/SVS995v/IC.png)
+![alt tag](https://i.ibb.co/h20ttL8/IC.png)
 ```**IluminatisCoin**
 IluminatisCoin
 Red: xDaiChain
