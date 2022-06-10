@@ -1,12 +1,12 @@
 # Whitepaper
 ![alt tag](https://i.ibb.co/h20ttL8/IC.png)
-## Protocolo IluminatisCoin
+## IluminatisCoin Protocol
 **Cryptoasset for decentralized cooperative finance**
 
 Current financial systems are in constant research and implementation due to the extensive benefits that the usability of Blockchain provides in their systems; due to the great utility and security that it offers them, so it has become a very transparent and comfortable way for all users who make use of its benefits for their transactions.
 That is why a decentralized cooperative financial solution based on a utility governance Token is implemented, which gives all its users a safe and reliable system where the entire user community can make decisions regarding traceability of the Token.
 
-**PROTOCOLO ILUMINATISCOIN**
+**ILUMINATISCOIN PROTOCOL**
 
 The ILC Token is a decentralized fungible token of financial utility, developed with the purpose of establishing a cooperative governance system to cover the secure exchanges of balances widely accepted by the cryptoactive community, thus having several benefits and functionality for the benefit of all its users.
 
