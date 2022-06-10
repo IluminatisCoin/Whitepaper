@@ -18,10 +18,8 @@ In its initial stage it has the following benefits:
 Which have several programs and related services that expand the Adaxa Token ecosystem in order to provide greater solutions to its users.
 
 **TECHNICAL ASPECTS**
-- **Network:** xDaiChain
+- **Network:** Binance Smart Chain
 - **Token Type:** ERC-20
-- **Gas Fee:** 0,1 xDai By Transfer
-- **Transfer Time:** 5 Second maximum
 - **Total Supply:** 100.000.000 **(No more Token will be created)**
 
 **FEATURES**
@@ -63,7 +61,7 @@ It will focus on making decisions regarding the traceable course of the Adaxa To
 ![alt tag](https://i.ibb.co/h20ttL8/IC.png)
 ```**IluminatisCoin**
 IluminatisCoin
-Red: xDaiChain
+Red: Binance Smart Chain
 Total Supply: 100.000.000
-Publication Date: Q2 2021
+Publication Date: Q2 2022
 ```
