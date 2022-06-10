@@ -1,5 +1,5 @@
 # Whitepaper
-![alt tag](https://imgbb.com/"><img src="https://i.ibb.co/h20ttL8/IC.png)
+![alt tag](https://i.ibb.co/h20ttL8/IC.png)
 ## Adaxa Token Ecosystem
 **Cryptoasset for decentralized cooperative finance**
 
